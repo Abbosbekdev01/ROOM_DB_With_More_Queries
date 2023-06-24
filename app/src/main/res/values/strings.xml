@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Telegram</string>
+    <string name="settings">Settings</string>
+    <string name="name">Name</string>
+</resources>

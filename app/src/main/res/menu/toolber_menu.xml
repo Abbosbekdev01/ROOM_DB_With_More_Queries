@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/A_dan_Z"
+        android:title="A dan Z gacha " />
+    <item
+        android:id="@+id/Z_dan_A"
+        android:title="Z dan A gacha" />
+    <item
+        android:id="@+id/time_growth"
+        android:title="Vaqti o'sish tartibida" />
+    <item
+        android:id="@+id/time_decline"
+        android:title="Vaqti kamayish tartibida" />
+</menu>
